@@ -54,11 +54,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="ATSStructs.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="AssemblyInfo.cs" />
-    <None Include="Class1.cs" />
+    <None Include="UnmanagedIF.cs" />
     <None Include="ProjectTemplate.csproj" />
     <None Include="TR.ATSPI.CSharpTemplate.ico" />
   </ItemGroup>
